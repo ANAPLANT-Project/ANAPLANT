@@ -3,6 +3,7 @@
 | Field | Explanation |
 |-|-|
 | lab | Name of the lab which did the analysis |
+| lab_nr | Internal number of the lab file |
 | probenahme | date of sample collection |
 | versuchsfläche | 0 = on farm sample collection, 1 = sample collection from a trial |
 | bodenklimaraum | soil-climate area |
