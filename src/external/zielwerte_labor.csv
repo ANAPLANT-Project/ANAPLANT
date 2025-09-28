@@ -1,0 +1,946 @@
+Kultur,Entwicklungsstadium,id_element,Element,Einheit,min_labor,max_labor
+Winterraps,30-50 cm,p_n,Stickstoff 1,% TS,4.0,5.5
+Winterraps,30-50 cm,p_ca,Calcium 1,% TS,1.0,2.0
+Winterraps,30-50 cm,p_p,Phosphor 1,% TS,0.35,0.7
+Winterraps,30-50 cm,p_k,Kalium 1,% TS,2.8,5.0
+Winterraps,30-50 cm,p_mg,Magnesium 1,% TS,0.25,0.4
+Winterraps,30-50 cm,p_na,Natrium 2,% TS,0.004,2.0
+Winterraps,30-50 cm,p_s,Schwefel 2,% TS,0.45,0.9
+Winterraps,30-50 cm,p_b,Bor 1,ppm,30.0,60.0
+Winterraps,30-50 cm,p_mn,Mangan 1,ppm,30.0,150.0
+Winterraps,30-50 cm,p_cu,Kupfer 1,ppm,5.0,12.0
+Winterraps,30-50 cm,p_zn,Zink 1,ppm,25.0,70.0
+Winterraps,30-50 cm,p_fe,Eisen 2,ppm,50.0,150.0
+Winterraps,30-50 cm,p_mo,Molybdän 2,ppm,0.4,1.0
+Winterraps,30-50 cm,p_co,Cobalt,ppm,0.01,0.4
+Winterraps,30-50 cm,p_se,Selen,ppm,0.01,0.5
+Winterraps,EC 53,p_n,"Stickstoff 1,2",% TS,4.2,5.5
+Winterraps,EC 53,p_ca,Calcium 2,% TS,1.0,2.0
+Winterraps,EC 53,p_p,"Phosphor 1,2",% TS,0.4,0.74
+Winterraps,EC 53,p_k,"Kalium 1,2",% TS,2.3,4.8
+Winterraps,EC 53,p_mg,"Magnesium 1,2",% TS,0.18,0.36
+Winterraps,EC 53,p_na,Natrium 3,% TS,0.004,2.0
+Winterraps,EC 53,p_s,"Schwefel 1,2",% TS,0.45,0.9
+Winterraps,EC 53,p_b,"Bor  1,2",ppm,15.0,50.0
+Winterraps,EC 53,p_mn,"Mangan  1,2",ppm,30.0,150.0
+Winterraps,EC 53,p_cu,Kupfer 2,ppm,5.0,12.0
+Winterraps,EC 53,p_zn,Zink 2,ppm,25.0,70.0
+Winterraps,EC 53,p_fe,Eisen 3,ppm,50.0,150.0
+Winterraps,EC 53,p_mo,"Molybdän  1,2",ppm,0.38,1.0
+Winterraps,EC 53,p_co,Cobalt,ppm,0.01,0.4
+Winterraps,EC 53,p_se,Selen,ppm,0.01,0.5
+Winterraps,EC 55,p_n,"Stickstoff  1,2",% TS,4.1,5.5
+Winterraps,EC 55,p_ca,Calcium 2,% TS,1.0,2.0
+Winterraps,EC 55,p_p,"Phosphor  1,2",% TS,0.39,0.73
+Winterraps,EC 55,p_k,"Kalium  1,2",% TS,2.3,4.8
+Winterraps,EC 55,p_mg,"Magnesium 1,2",% TS,0.18,0.37
+Winterraps,EC 55,p_na,Natrium 3,% TS,0.004,2.0
+Winterraps,EC 55,p_s,"Schwefel 1,2",% TS,0.45,0.9
+Winterraps,EC 55,p_b,"Bor 1,2",ppm,16.0,60.0
+Winterraps,EC 55,p_mn,"Mangan  1,2",ppm,28.0,150.0
+Winterraps,EC 55,p_cu,Kupfer 2,ppm,5.0,12.0
+Winterraps,EC 55,p_zn,Zink 2,ppm,25.0,70.0
+Winterraps,EC 55,p_fe,Eisen 3,ppm,50.0,150.0
+Winterraps,EC 55,p_mo,"Molybdän  1,2",ppm,0.36,1.0
+Winterraps,EC 55,p_co,Cobalt,ppm,0.01,0.4
+Winterraps,EC 55,p_se,Selen,ppm,0.01,0.5
+Winterraps,EC 57-61,p_n,"Stickstoff  1,2",% TS,4.1,5.5
+Winterraps,EC 57-61,p_ca,Calcium 2,% TS,1.0,2.0
+Winterraps,EC 57-61,p_p,"Phosphor  1,2",% TS,0.36,0.7
+Winterraps,EC 57-61,p_k,"Kalium  1,2",% TS,2.4,4.9
+Winterraps,EC 57-61,p_mg,"Magnesium 1,2",% TS,0.18,0.38
+Winterraps,EC 57-61,p_na,Natrium 3,% TS,0.01,2.0
+Winterraps,EC 57-61,p_s,"Schwefel 1,2",% TS,0.5,0.9
+Winterraps,EC 57-61,p_b,"Bor 1,2",ppm,18.0,60.0
+Winterraps,EC 57-61,p_mn,"Mangan 1,2",ppm,25.0,150.0
+Winterraps,EC 57-61,p_cu,Kupfer 2,ppm,5.0,12.0
+Winterraps,EC 57-61,p_zn,Zink 2,ppm,25.0,70.0
+Winterraps,EC 57-61,p_fe,Eisen 3,ppm,50.0,150.0
+Winterraps,EC 57-61,p_mo,"Molybdän 1,2",ppm,0.34,1.0
+Winterraps,EC 57-61,p_co,Cobalt,ppm,0.01,0.4
+Winterraps,EC 57-61,p_se,Selen,ppm,0.01,0.5
+Winterraps,EC 62-63,p_n,"Stickstoff 1,2",% TS,4.0,5.4
+Winterraps,EC 62-63,p_ca,Calcium 2,% TS,1.0,2.0
+Winterraps,EC 62-63,p_p,"Phosphor 1,2",% TS,0.32,0.66
+Winterraps,EC 62-63,p_k,"Kalium 1,2",% TS,2.4,4.9
+Winterraps,EC 62-63,p_mg,"Magnesium 1,2",% TS,0.19,0.39
+Winterraps,EC 62-63,p_na,Natrium 3,% TS,0.01,2.0
+Winterraps,EC 62-63,p_s,"Schwefel 1,2",% TS,0.5,0.9
+Winterraps,EC 62-63,p_b,"Bor 1,2",ppm,19.0,60.0
+Winterraps,EC 62-63,p_mn,"Mangan 1,2",ppm,22.0,150.0
+Winterraps,EC 62-63,p_cu,Kupfer 2,ppm,5.0,12.0
+Winterraps,EC 62-63,p_zn,Zink 2,ppm,25.0,70.0
+Winterraps,EC 62-63,p_fe,Eisen 3,ppm,50.0,150.0
+Winterraps,EC 62-63,p_mo,"Molybdän 1,2",ppm,0.32,0.9
+Winterraps,EC 62-63,p_co,Cobalt,ppm,0.01,0.4
+Winterraps,EC 62-63,p_se,Selen,ppm,0.01,0.5
+Winterraps,EC 64,p_n,"Stickstoff 1,2",% TS,3.9,5.3
+Winterraps,EC 64,p_ca,Calcium 2,% TS,1.0,2.0
+Winterraps,EC 64,p_p,"Phosphor 1,2",% TS,0.27,0.59
+Winterraps,EC 64,p_k,"Kalium 1,2",% TS,2.3,4.6
+Winterraps,EC 64,p_mg,"Magnesium 1,2",% TS,0.21,0.42
+Winterraps,EC 64,p_na,Natrium 3,% TS,0.01,2.0
+Winterraps,EC 64,p_s,"Schwefel 1,2",% TS,0.5,0.9
+Winterraps,EC 64,p_b,"Bor 1,2",ppm,20.0,50.0
+Winterraps,EC 64,p_mn,"Mangan 1,2",ppm,20.0,150.0
+Winterraps,EC 64,p_cu,Kupfer 2,ppm,5.0,12.0
+Winterraps,EC 64,p_zn,Zink 2,ppm,25.0,70.0
+Winterraps,EC 64,p_fe,Eisen 3,ppm,50.0,150.0
+Winterraps,EC 64,p_mo,"Molybdän 1,2",ppm,0.3,0.9
+Winterraps,EC 64,p_co,Cobalt,ppm,0.01,0.4
+Winterraps,EC 64,p_se,Selen,ppm,0.01,0.5
+Winterweizen,EC 24-28,p_n,"Stickstoff 1,2,3",% TS,3.6,5.5
+Winterweizen,EC 24-28,p_ca,"Calcium 1,2,3",% TS,0.52,0.78
+Winterweizen,EC 24-28,p_p,"Phosphor 1,2,3",% TS,0.39,0.62
+Winterweizen,EC 24-28,p_k,"Kalium 1,2,3",% TS,3.4,5.1
+Winterweizen,EC 24-28,p_mg,"Magnesium 1,2,3",% TS,0.08,0.15
+Winterweizen,EC 24-28,p_na,Natrium 4,% TS,0.004,2.0
+Winterweizen,EC 24-28,p_s,Schwefel 4,% TS,0.37,0.5
+Winterweizen,EC 24-28,p_b,Bor 2,ppm,6.0,12.0
+Winterweizen,EC 24-28,p_mn,"Mangan 1,2,3",ppm,33.0,116.0
+Winterweizen,EC 24-28,p_cu,"Kupfer 1,2,3",ppm,4.9,11.3
+Winterweizen,EC 24-28,p_zn,"Zink 1,2,3",ppm,23.0,34.0
+Winterweizen,EC 24-28,p_fe,Eisen 4,ppm,50.0,150.0
+Winterweizen,EC 24-28,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterweizen,EC 24-28,p_co,Cobalt,ppm,0.01,0.4
+Winterweizen,EC 24-28,p_se,Selen,ppm,0.01,0.5
+Winterweizen,EC 29-30,p_n,"Stickstoff 1,2,3",% TS,3.2,5.2
+Winterweizen,EC 29-30,p_ca,"Calcium 1,2,3",% TS,0.44,0.72
+Winterweizen,EC 29-30,p_p,"Phosphor 1,2,3",% TS,0.36,0.57
+Winterweizen,EC 29-30,p_k,"Kalium 1,2,3",% TS,3.3,5.1
+Winterweizen,EC 29-30,p_mg,"Magnesium 1,2,3",% TS,0.08,0.16
+Winterweizen,EC 29-30,p_na,Natrium 4,% TS,0.004,2.0
+Winterweizen,EC 29-30,p_s,Schwefel 4,% TS,0.3,0.5
+Winterweizen,EC 29-30,p_b,Bor 2,ppm,6.0,12.0
+Winterweizen,EC 29-30,p_mn,"Mangan 1,2,3",ppm,31.0,100.0
+Winterweizen,EC 29-30,p_cu,"Kupfer 1,2,3",ppm,4.4,11.2
+Winterweizen,EC 29-30,p_zn,"Zink 1,2,3",ppm,21.0,34.0
+Winterweizen,EC 29-30,p_fe,Eisen 4,ppm,50.0,150.0
+Winterweizen,EC 29-30,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterweizen,EC 29-30,p_co,Cobalt,ppm,0.01,0.4
+Winterweizen,EC 29-30,p_se,Selen,ppm,0.01,0.5
+Winterweizen,EC 31,p_n,"Stickstoff 1,2,3",% TS,2.8,4.8
+Winterweizen,EC 31,p_ca,"Calcium 1,2,3",% TS,0.38,0.66
+Winterweizen,EC 31,p_p,"Phosphor 1,2,3",% TS,0.33,0.52
+Winterweizen,EC 31,p_k,"Kalium 1,2,3",% TS,3.2,5.1
+Winterweizen,EC 31,p_mg,"Magnesium 1,2,3",% TS,0.08,0.17
+Winterweizen,EC 31,p_na,Natrium 4,% TS,0.004,2.0
+Winterweizen,EC 31,p_s,Schwefel 4,% TS,0.3,0.5
+Winterweizen,EC 31,p_b,Bor 2,ppm,6.0,12.0
+Winterweizen,EC 31,p_mn,"Mangan 1,2,3",ppm,29.0,88.0
+Winterweizen,EC 31,p_cu,"Kupfer 1,2,3",ppm,4.0,10.9
+Winterweizen,EC 31,p_zn,"Zink 1,2,3",ppm,19.0,34.0
+Winterweizen,EC 31,p_fe,Eisen 4,ppm,50.0,150.0
+Winterweizen,EC 31,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterweizen,EC 31,p_co,Cobalt,ppm,0.01,0.4
+Winterweizen,EC 31,p_se,Selen,ppm,0.01,0.5
+Winterweizen,EC 32-36,p_n,"Stickstoff 1,2,3",% TS,2.4,4.3
+Winterweizen,EC 32-36,p_ca,"Calcium 1,2,3",% TS,0.33,0.61
+Winterweizen,EC 32-36,p_p,"Phosphor 1,2,3",% TS,0.3,0.48
+Winterweizen,EC 32-36,p_k,"Kalium 1,2,3",% TS,3.0,4.8
+Winterweizen,EC 32-36,p_mg,"Magnesium 1,2,3",% TS,0.08,0.17
+Winterweizen,EC 32-36,p_na,Natrium 4,% TS,0.004,2.0
+Winterweizen,EC 32-36,p_s,Schwefel 4,% TS,0.3,0.5
+Winterweizen,EC 32-36,p_b,Bor 2,ppm,5.0,10.0
+Winterweizen,EC 32-36,p_mn,"Mangan 1,2,3",ppm,28.0,77.0
+Winterweizen,EC 32-36,p_cu,"Kupfer 1,2,3",ppm,3.6,10.6
+Winterweizen,EC 32-36,p_zn,"Zink 1,2,3",ppm,18.0,33.0
+Winterweizen,EC 32-36,p_fe,Eisen 4,ppm,50.0,150.0
+Winterweizen,EC 32-36,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterweizen,EC 32-36,p_co,Cobalt,ppm,0.01,0.4
+Winterweizen,EC 32-36,p_se,Selen,ppm,0.01,0.5
+Winterweizen,EC 37-38,p_n,"Stickstoff 1,2,3",% TS,2.2,3.8
+Winterweizen,EC 37-38,p_ca,"Calcium 1,2,3",% TS,0.3,0.56
+Winterweizen,EC 37-38,p_p,"Phosphor 1,2,3",% TS,0.28,0.44
+Winterweizen,EC 37-38,p_k,"Kalium 1,2,3",% TS,2.8,4.5
+Winterweizen,EC 37-38,p_mg,"Magnesium 1,2,3",% TS,0.08,0.16
+Winterweizen,EC 37-38,p_na,Natrium 4,% TS,0.01,2.0
+Winterweizen,EC 37-38,p_s,Schwefel 4,% TS,0.3,0.5
+Winterweizen,EC 37-38,p_b,Bor 2,ppm,5.0,10.0
+Winterweizen,EC 37-38,p_mn,"Mangan 1,2,3",ppm,28.0,70.0
+Winterweizen,EC 37-38,p_cu,"Kupfer 1,2,3",ppm,3.5,10.1
+Winterweizen,EC 37-38,p_zn,"Zink 1,2,3",ppm,17.0,31.0
+Winterweizen,EC 37-38,p_fe,Eisen 4,ppm,50.0,150.0
+Winterweizen,EC 37-38,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterweizen,EC 37-38,p_co,Cobalt,ppm,0.01,0.4
+Winterweizen,EC 37-38,p_se,Selen,ppm,0.01,0.5
+Winterweizen,EC 39-41,p_n,"Stickstoff 1,2,3",% TS,2.0,3.3
+Winterweizen,EC 39-41,p_ca,"Calcium 1,2,3",% TS,0.3,0.52
+Winterweizen,EC 39-41,p_p,"Phosphor 1,2,3",% TS,0.26,0.39
+Winterweizen,EC 39-41,p_k,"Kalium 1,2,3",% TS,2.5,4.0
+Winterweizen,EC 39-41,p_mg,"Magnesium 1,2,3",% TS,0.08,0.15
+Winterweizen,EC 39-41,p_na,Natrium 4,% TS,0.01,2.0
+Winterweizen,EC 39-41,p_s,Schwefel 4,% TS,0.3,0.5
+Winterweizen,EC 39-41,p_b,Bor 2,ppm,5.0,10.0
+Winterweizen,EC 39-41,p_mn,"Mangan 1,2,3",ppm,28.0,65.0
+Winterweizen,EC 39-41,p_cu,"Kupfer 1,2,3",ppm,3.4,9.5
+Winterweizen,EC 39-41,p_zn,"Zink 1,2,3",ppm,17.0,28.0
+Winterweizen,EC 39-41,p_fe,Eisen 4,ppm,50.0,150.0
+Winterweizen,EC 39-41,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterweizen,EC 39-41,p_co,Cobalt,ppm,0.01,0.4
+Winterweizen,EC 39-41,p_se,Selen,ppm,0.01,0.5
+Winterweizen,EC 42-45,p_n,"Stickstoff 1,2,3",% TS,1.8,2.7
+Winterweizen,EC 42-45,p_ca,"Calcium 1,2,3",% TS,0.31,0.48
+Winterweizen,EC 42-45,p_p,"Phosphor 1,2,3",% TS,0.25,0.35
+Winterweizen,EC 42-45,p_k,"Kalium 1,2,3",% TS,2.2,3.3
+Winterweizen,EC 42-45,p_mg,"Magnesium 1,2,3",% TS,0.08,0.13
+Winterweizen,EC 42-45,p_na,Natrium 4,% TS,0.01,2.0
+Winterweizen,EC 42-45,p_s,Schwefel 4,% TS,0.3,0.5
+Winterweizen,EC 42-45,p_b,Bor 2,ppm,5.0,10.0
+Winterweizen,EC 42-45,p_mn,"Mangan 1,2,3",ppm,30.0,63.0
+Winterweizen,EC 42-45,p_cu,"Kupfer 1,2,3",ppm,3.5,8.8
+Winterweizen,EC 42-45,p_zn,"Zink 1,2,3",ppm,17.0,24.0
+Winterweizen,EC 42-45,p_fe,Eisen 4,ppm,50.0,150.0
+Winterweizen,EC 42-45,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterweizen,EC 42-45,p_co,Cobalt,ppm,0.01,0.4
+Winterweizen,EC 42-45,p_se,Selen,ppm,0.01,0.5
+Wintergerste,EC 28,p_n,"Stickstoff 1,2,3",% TS,3.2,5.7
+Wintergerste,EC 28,p_ca,Calcium 2,% TS,0.3,1.0
+Wintergerste,EC 28,p_p,"Phosphor 1,2,3",% TS,0.37,0.59
+Wintergerste,EC 28,p_k,"Kalium 1,2,3",% TS,3.4,5.2
+Wintergerste,EC 28,p_mg,"Magnesium 1,2,3",% TS,0.08,0.3
+Wintergerste,EC 28,p_na,Natrium 4,% TS,0.01,2.0
+Wintergerste,EC 28,p_s,Schwefel 4,% TS,0.3,0.5
+Wintergerste,EC 28,p_b,Bor 2,ppm,6.0,12.0
+Wintergerste,EC 28,p_mn,"Mangan 1,2,3",ppm,27.0,84.0
+Wintergerste,EC 28,p_cu,"Kupfer 1,2,3",ppm,4.1,10.6
+Wintergerste,EC 28,p_zn,"Zink 1,2,3",ppm,26.0,43.0
+Wintergerste,EC 28,p_fe,Eisen 4,ppm,50.0,150.0
+Wintergerste,EC 28,p_mo,Molybdän 2,ppm,0.1,0.3
+Wintergerste,EC 28,p_co,Cobalt,ppm,0.01,0.4
+Wintergerste,EC 28,p_se,Selen,ppm,0.01,0.5
+Wintergerste,EC 29,p_n,"Stickstoff 1,2,3",% TS,2.8,5.4
+Wintergerste,EC 29,p_ca,Calcium 2,% TS,0.3,1.0
+Wintergerste,EC 29,p_p,"Phosphor 1,2,3",% TS,0.36,0.61
+Wintergerste,EC 29,p_k,"Kalium 1,2,3",% TS,3.3,5.6
+Wintergerste,EC 29,p_mg,"Magnesium 1,2,3",% TS,0.08,0.3
+Wintergerste,EC 29,p_na,Natrium 4,% TS,0.01,2.0
+Wintergerste,EC 29,p_s,Schwefel 4,% TS,0.3,0.5
+Wintergerste,EC 29,p_b,Bor 2,ppm,6.0,12.0
+Wintergerste,EC 29,p_mn,"Mangan 1,2,3",ppm,22.0,88.0
+Wintergerste,EC 29,p_cu,"Kupfer 1,2,3",ppm,3.8,11.6
+Wintergerste,EC 29,p_zn,"Zink 1,2,3",ppm,24.0,49.0
+Wintergerste,EC 29,p_fe,Eisen 4,ppm,50.0,150.0
+Wintergerste,EC 29,p_mo,Molybdän 2,ppm,0.1,0.3
+Wintergerste,EC 29,p_co,Cobalt,ppm,0.01,0.4
+Wintergerste,EC 29,p_se,Selen,ppm,0.01,0.5
+Wintergerste,EC 30-31,p_n,"Stickstoff 1,2,3",% TS,2.5,5.0
+Wintergerste,EC 30-31,p_ca,Calcium 2,% TS,0.3,1.0
+Wintergerste,EC 30-31,p_p,"Phosphor 1,2,3",% TS,0.34,0.6
+Wintergerste,EC 30-31,p_k,"Kalium 1,2,3",% TS,3.2,5.7
+Wintergerste,EC 30-31,p_mg,"Magnesium 1,2,3",% TS,0.08,0.3
+Wintergerste,EC 30-31,p_na,Natrium 4,% TS,0.01,2.0
+Wintergerste,EC 30-31,p_s,Schwefel 4,% TS,0.3,0.5
+Wintergerste,EC 30-31,p_b,Bor 2,ppm,6.0,12.0
+Wintergerste,EC 30-31,p_mn,"Mangan 1,2,3",ppm,19.0,88.0
+Wintergerste,EC 30-31,p_cu,"Kupfer 1,2,3",ppm,3.6,12.0
+Wintergerste,EC 30-31,p_zn,"Zink 1,2,3",ppm,23.0,52.0
+Wintergerste,EC 30-31,p_fe,Eisen 4,ppm,50.0,150.0
+Wintergerste,EC 30-31,p_mo,Molybdän 2,ppm,0.1,0.3
+Wintergerste,EC 30-31,p_co,Cobalt,ppm,0.01,0.4
+Wintergerste,EC 30-31,p_se,Selen,ppm,0.01,0.5
+Wintergerste,EC 32-36,p_n,"Stickstoff 1,2,3",% TS,2.3,4.6
+Wintergerste,EC 32-36,p_ca,Calcium 2,% TS,0.25,1.0
+Wintergerste,EC 32-36,p_p,"Phosphor 1,2,3",% TS,0.33,0.58
+Wintergerste,EC 32-36,p_k,"Kalium 1,2,3",% TS,3.0,5.6
+Wintergerste,EC 32-36,p_mg,"Magnesium 1,2,3",% TS,0.07,0.3
+Wintergerste,EC 32-36,p_na,Natrium 4,% TS,0.01,2.0
+Wintergerste,EC 32-36,p_s,Schwefel 4,% TS,0.3,0.5
+Wintergerste,EC 32-36,p_b,Bor 2,ppm,5.0,10.0
+Wintergerste,EC 32-36,p_mn,"Mangan 1,2,3",ppm,16.0,82.0
+Wintergerste,EC 32-36,p_cu,"Kupfer 1,2,3",ppm,3.6,11.9
+Wintergerste,EC 32-36,p_zn,"Zink 1,2,3",ppm,22.0,51.0
+Wintergerste,EC 32-36,p_fe,Eisen 4,ppm,50.0,150.0
+Wintergerste,EC 32-36,p_mo,Molybdän 2,ppm,0.1,0.2
+Wintergerste,EC 32-36,p_co,Cobalt,ppm,0.01,0.4
+Wintergerste,EC 32-36,p_se,Selen,ppm,0.01,0.5
+Wintergerste,EC 37-38,p_n,"Stickstoff 1,2,3",% TS,2.0,4.1
+Wintergerste,EC 37-38,p_ca,Calcium 2,% TS,0.25,1.0
+Wintergerste,EC 37-38,p_p,"Phosphor 1,2,3",% TS,0.31,0.53
+Wintergerste,EC 37-38,p_k,"Kalium 1,2,3",% TS,2.9,5.2
+Wintergerste,EC 37-38,p_mg,"Magnesium 1,2,3",% TS,0.07,0.3
+Wintergerste,EC 37-38,p_na,Natrium 4,% TS,0.01,2.0
+Wintergerste,EC 37-38,p_s,Schwefel 4,% TS,0.3,0.5
+Wintergerste,EC 37-38,p_b,Bor 2,ppm,5.0,10.0
+Wintergerste,EC 37-38,p_mn,"Mangan 1,2,3",ppm,15.0,71.0
+Wintergerste,EC 37-38,p_cu,"Kupfer 1,2,3",ppm,3.6,11.1
+Wintergerste,EC 37-38,p_zn,"Zink 1,2,3",ppm,21.0,47.0
+Wintergerste,EC 37-38,p_fe,Eisen 4,ppm,50.0,150.0
+Wintergerste,EC 37-38,p_mo,Molybdän 2,ppm,0.1,0.2
+Wintergerste,EC 37-38,p_co,Cobalt,ppm,0.01,0.4
+Wintergerste,EC 37-38,p_se,Selen,ppm,0.01,0.5
+Wintergerste,EC 39-41,p_n,"Stickstoff 1,2,3",% TS,1.9,3.5
+Wintergerste,EC 39-41,p_ca,Calcium 2,% TS,0.25,1.0
+Wintergerste,EC 39-41,p_p,"Phosphor 1,2,3",% TS,0.29,0.46
+Wintergerste,EC 39-41,p_k,"Kalium 1,2,3",% TS,2.6,4.6
+Wintergerste,EC 39-41,p_mg,"Magnesium 1,2,3",% TS,0.07,0.3
+Wintergerste,EC 39-41,p_na,Natrium 4,% TS,0.01,2.0
+Wintergerste,EC 39-41,p_s,Schwefel 4,% TS,0.3,0.5
+Wintergerste,EC 39-41,p_b,Bor 2,ppm,5.0,10.0
+Wintergerste,EC 39-41,p_mn,"Mangan 1,2,3",ppm,15.0,55.0
+Wintergerste,EC 39-41,p_cu,"Kupfer 1,2,3",ppm,3.6,9.8
+Wintergerste,EC 39-41,p_zn,"Zink 1,2,3",ppm,20.0,40.0
+Wintergerste,EC 39-41,p_fe,Eisen 4,ppm,50.0,150.0
+Wintergerste,EC 39-41,p_mo,Molybdän 2,ppm,0.1,0.2
+Wintergerste,EC 39-41,p_co,Cobalt,ppm,0.01,0.4
+Wintergerste,EC 39-41,p_se,Selen,ppm,0.01,0.5
+Wintergerste,EC 42-45,p_n,"Stickstoff 1,2,3",% TS,1.7,2.9
+Wintergerste,EC 42-45,p_ca,Calcium 2,% TS,0.25,1.0
+Wintergerste,EC 42-45,p_p,"Phosphor 1,2,3",% TS,0.26,0.38
+Wintergerste,EC 42-45,p_k,"Kalium 1,2,3",% TS,2.4,3.8
+Wintergerste,EC 42-45,p_mg,"Magnesium 1,2,3",% TS,0.07,0.3
+Wintergerste,EC 42-45,p_na,Natrium 4,% TS,0.01,2.0
+Wintergerste,EC 42-45,p_s,Schwefel 4,% TS,0.3,0.5
+Wintergerste,EC 42-45,p_b,Bor 2,ppm,5.0,10.0
+Wintergerste,EC 42-45,p_mn,"Mangan 1,2,3",ppm,16.0,34.0
+Wintergerste,EC 42-45,p_cu,"Kupfer 1,2,3",ppm,3.6,7.8
+Wintergerste,EC 42-45,p_zn,"Zink 1,2,3",ppm,19.0,29.0
+Wintergerste,EC 42-45,p_fe,Eisen 4,ppm,50.0,150.0
+Wintergerste,EC 42-45,p_mo,Molybdän 2,ppm,0.1,0.2
+Wintergerste,EC 42-45,p_co,Cobalt,ppm,0.01,0.4
+Wintergerste,EC 42-45,p_se,Selen,ppm,0.01,0.5
+Winterroggen,EC 28,p_n,"Stickstoff 1,2,3",% TS,3.3,6.1
+Winterroggen,EC 28,p_ca,Calcium 2,% TS,0.35,1.0
+Winterroggen,EC 28,p_p,"Phosphor 1,2,3",% TS,0.47,0.79
+Winterroggen,EC 28,p_k,"Kalium 1,2,3",% TS,3.2,4.8
+Winterroggen,EC 28,p_mg,"Magnesium 1,2,3",% TS,0.1,0.2
+Winterroggen,EC 28,p_na,Natrium 4,% TS,0.01,2.0
+Winterroggen,EC 28,p_s,Schwefel 4,% TS,0.32,0.41
+Winterroggen,EC 28,p_b,Bor 2,ppm,5.0,10.0
+Winterroggen,EC 28,p_mn,"Mangan 1,2,3",ppm,33.0,107.0
+Winterroggen,EC 28,p_cu,"Kupfer 1,2,3",ppm,6.4,10.4
+Winterroggen,EC 28,p_zn,"Zink 1,2,3",ppm,28.0,40.0
+Winterroggen,EC 28,p_fe,Eisen 4,ppm,50.0,150.0
+Winterroggen,EC 28,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterroggen,EC 28,p_co,Cobalt,ppm,0.01,0.4
+Winterroggen,EC 28,p_se,Selen,ppm,0.01,0.5
+Winterroggen,EC 29,p_n,"Stickstoff 1,2,3",% TS,2.9,5.6
+Winterroggen,EC 29,p_ca,Calcium 2,% TS,0.35,1.0
+Winterroggen,EC 29,p_p,"Phosphor 1,2,3",% TS,0.45,0.77
+Winterroggen,EC 29,p_k,"Kalium 1,2,3",% TS,3.0,4.9
+Winterroggen,EC 29,p_mg,"Magnesium 1,2,3",% TS,0.09,0.2
+Winterroggen,EC 29,p_na,Natrium 4,% TS,0.01,2.0
+Winterroggen,EC 29,p_s,Schwefel 4,% TS,0.32,0.41
+Winterroggen,EC 29,p_b,Bor 2,ppm,5.0,10.0
+Winterroggen,EC 29,p_mn,"Mangan 1,2,3",ppm,24.0,102.0
+Winterroggen,EC 29,p_cu,"Kupfer 1,2,3",ppm,5.6,10.0
+Winterroggen,EC 29,p_zn,"Zink 1,2,3",ppm,28.0,40.0
+Winterroggen,EC 29,p_fe,Eisen 4,ppm,50.0,150.0
+Winterroggen,EC 29,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterroggen,EC 29,p_co,Cobalt,ppm,0.01,0.4
+Winterroggen,EC 29,p_se,Selen,ppm,0.01,0.5
+Winterroggen,EC 30-31,p_n,"Stickstoff 1,2,3",% TS,2.6,5.0
+Winterroggen,EC 30-31,p_ca,Calcium 2,% TS,0.35,1.0
+Winterroggen,EC 30-31,p_p,"Phosphor 1,2,3",% TS,0.42,0.73
+Winterroggen,EC 30-31,p_k,"Kalium 1,2,3",% TS,2.9,4.8
+Winterroggen,EC 30-31,p_mg,"Magnesium 1,2,3",% TS,0.08,0.19
+Winterroggen,EC 30-31,p_na,Natrium 4,% TS,0.01,2.0
+Winterroggen,EC 30-31,p_s,Schwefel 4,% TS,0.32,0.41
+Winterroggen,EC 30-31,p_b,Bor 2,ppm,5.0,10.0
+Winterroggen,EC 30-31,p_mn,"Mangan 1,2,3",ppm,19.0,98.0
+Winterroggen,EC 30-31,p_cu,"Kupfer 1,2,3",ppm,5.1,9.6
+Winterroggen,EC 30-31,p_zn,"Zink 1,2,3",ppm,25.0,39.0
+Winterroggen,EC 30-31,p_fe,Eisen 4,ppm,50.0,150.0
+Winterroggen,EC 30-31,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterroggen,EC 30-31,p_co,Cobalt,ppm,0.01,0.4
+Winterroggen,EC 30-31,p_se,Selen,ppm,0.01,0.5
+Winterroggen,EC 32-36,p_n,"Stickstoff 1,2,3",% TS,2.3,4.5
+Winterroggen,EC 32-36,p_ca,Calcium 2,% TS,0.3,1.0
+Winterroggen,EC 32-36,p_p,"Phosphor 1,2,3",% TS,0.4,0.69
+Winterroggen,EC 32-36,p_k,"Kalium 1,2,3",% TS,2.8,4.7
+Winterroggen,EC 32-36,p_mg,"Magnesium 1,2,3",% TS,0.08,0.18
+Winterroggen,EC 32-36,p_na,Natrium 4,% TS,0.01,2.0
+Winterroggen,EC 32-36,p_s,Schwefel 4,% TS,0.32,0.41
+Winterroggen,EC 32-36,p_b,Bor 2,ppm,4.0,10.0
+Winterroggen,EC 32-36,p_mn,"Mangan 1,2,3",ppm,14.0,92.0
+Winterroggen,EC 32-36,p_cu,"Kupfer 1,2,3",ppm,4.8,9.2
+Winterroggen,EC 32-36,p_zn,"Zink 1,2,3",ppm,23.0,38.0
+Winterroggen,EC 32-36,p_fe,Eisen 4,ppm,50.0,150.0
+Winterroggen,EC 32-36,p_co,Cobalt,ppm,0.01,0.4
+Winterroggen,EC 32-36,p_se,Selen,ppm,0.01,0.5
+Winterroggen,EC 32-36,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterroggen,EC 37-38,p_n,"Stickstoff 1,2,3",% TS,2.1,4.0
+Winterroggen,EC 37-38,p_ca,Calcium 2,% TS,0.3,1.0
+Winterroggen,EC 37-38,p_p,"Phosphor 1,2,3",% TS,0.37,0.62
+Winterroggen,EC 37-38,p_k,"Kalium 1,2,3",% TS,2.6,4.4
+Winterroggen,EC 37-38,p_mg,"Magnesium 1,2,3",% TS,0.07,0.18
+Winterroggen,EC 37-38,p_na,Natrium 4,% TS,0.01,2.0
+Winterroggen,EC 37-38,p_s,Schwefel 4,% TS,0.32,0.41
+Winterroggen,EC 37-38,p_b,Bor 2,ppm,4.0,10.0
+Winterroggen,EC 37-38,p_mn,"Mangan 1,2,3",ppm,14.0,86.0
+Winterroggen,EC 37-38,p_cu,"Kupfer 1,2,3",ppm,4.7,8.8
+Winterroggen,EC 37-38,p_zn,"Zink 1,2,3",ppm,22.0,38.0
+Winterroggen,EC 37-38,p_fe,Eisen 4,ppm,50.0,150.0
+Winterroggen,EC 37-38,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterroggen,EC 37-38,p_co,Cobalt,ppm,0.01,0.4
+Winterroggen,EC 37-38,p_se,Selen,ppm,0.01,0.5
+Winterroggen,EC 39-41,p_n,"Stickstoff 1,2,3",% TS,1.9,3.5
+Winterroggen,EC 39-41,p_ca,Calcium 2,% TS,0.3,1.0
+Winterroggen,EC 39-41,p_p,"Phosphor 1,2,3",% TS,0.33,0.55
+Winterroggen,EC 39-41,p_k,"Kalium 1,2,3",% TS,2.5,4.0
+Winterroggen,EC 39-41,p_mg,"Magnesium 1,2,3",% TS,0.08,0.17
+Winterroggen,EC 39-41,p_na,Natrium 4,% TS,0.01,2.0
+Winterroggen,EC 39-41,p_s,Schwefel 4,% TS,0.32,0.41
+Winterroggen,EC 39-41,p_b,Bor 2,ppm,4.0,10.0
+Winterroggen,EC 39-41,p_mn,"Mangan 1,2,3",ppm,17.0,80.0
+Winterroggen,EC 39-41,p_cu,"Kupfer 1,2,3",ppm,4.8,8.2
+Winterroggen,EC 39-41,p_zn,"Zink 1,2,3",ppm,22.0,37.0
+Winterroggen,EC 39-41,p_fe,Eisen 4,ppm,50.0,150.0
+Winterroggen,EC 39-41,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterroggen,EC 39-41,p_co,Cobalt,ppm,0.01,0.4
+Winterroggen,EC 39-41,p_se,Selen,ppm,0.01,0.5
+Winterroggen,EC 42-45,p_n,"Stickstoff 1,2,3",% TS,1.8,3.0
+Winterroggen,EC 42-45,p_ca,Calcium 2,% TS,0.3,1.0
+Winterroggen,EC 42-45,p_p,"Phosphor 1,2,3",% TS,0.3,0.45
+Winterroggen,EC 42-45,p_k,"Kalium 1,2,3",% TS,2.3,3.6
+Winterroggen,EC 42-45,p_mg,"Magnesium 1,2,3",% TS,0.08,0.16
+Winterroggen,EC 42-45,p_na,Natrium 4,% TS,0.01,2.0
+Winterroggen,EC 42-45,p_s,Schwefel 4,% TS,0.32,0.41
+Winterroggen,EC 42-45,p_b,Bor 2,ppm,4.0,10.0
+Winterroggen,EC 42-45,p_mn,"Mangan 1,2,3",ppm,24.0,74.0
+Winterroggen,EC 42-45,p_cu,"Kupfer 1,2,3",ppm,5.1,7.7
+Winterroggen,EC 42-45,p_zn,"Zink 1,2,3",ppm,23.0,36.0
+Winterroggen,EC 42-45,p_fe,Eisen 4,ppm,50.0,150.0
+Winterroggen,EC 42-45,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterroggen,EC 42-45,p_co,Cobalt,ppm,0.01,0.4
+Winterroggen,EC 42-45,p_se,Selen,ppm,0.01,0.5
+Zuckerrübe,Mitte Juni,p_n,"Stickstoff 1,2,3",% TS,4.5,6.0
+Zuckerrübe,Mitte Juni,p_ca,Calcium 2,% TS,0.7,2.0
+Zuckerrübe,Mitte Juni,p_p,"Phosphor 1,2,3",% TS,0.35,0.65
+Zuckerrübe,Mitte Juni,p_k,"Kalium 1,2,3",% TS,3.7,6.8
+Zuckerrübe,Mitte Juni,p_mg,"Magnesium 1,2,3",% TS,0.33,1.1
+Zuckerrübe,Mitte Juni,p_na,Natrium 4,% TS,0.01,2.0
+Zuckerrübe,Mitte Juni,p_s,Schwefel 4,% TS,0.3,0.5
+Zuckerrübe,Mitte Juni,p_b,"Bor 1,2,3",ppm,28.0,90.0
+Zuckerrübe,Mitte Juni,p_mn,"Mangan 1,2,3",ppm,42.0,200.0
+Zuckerrübe,Mitte Juni,p_cu,"Kupfer 1,2,3",ppm,5.7,17.5
+Zuckerrübe,Mitte Juni,p_zn,"Zink 1,2,3",ppm,27.0,80.0
+Zuckerrübe,Mitte Juni,p_fe,Eisen 4,ppm,50.0,150.0
+Zuckerrübe,Mitte Juni,p_mo,"Molybdän 1,2,3",ppm,0.17,1.5
+Zuckerrübe,Mitte Juni,p_co,Cobalt,ppm,0.01,0.4
+Zuckerrübe,Mitte Juni,p_se,Selen,ppm,0.01,0.5
+Zuckerrübe,Ende Juni,p_n,"Stickstoff 1,2,3",% TS,4.3,9.0
+Zuckerrübe,Ende Juni,p_ca,Calcium 2,% TS,0.7,2.0
+Zuckerrübe,Ende Juni,p_p,"Phosphor 1,2,3",% TS,0.32,0.62
+Zuckerrübe,Ende Juni,p_k,"Kalium 1,2,3",% TS,3.5,6.6
+Zuckerrübe,Ende Juni,p_mg,"Magnesium 1,2,3",% TS,0.3,1.1
+Zuckerrübe,Ende Juni,p_na,Natrium 4,% TS,0.01,2.0
+Zuckerrübe,Ende Juni,p_s,Schwefel 4,% TS,0.3,0.5
+Zuckerrübe,Ende Juni,p_b,"Bor 1,2,3",ppm,31.0,100.0
+Zuckerrübe,Ende Juni,p_mn,"Mangan 1,2,3",ppm,40.0,200.0
+Zuckerrübe,Ende Juni,p_cu,"Kupfer 1,2,3",ppm,5.5,17.0
+Zuckerrübe,Ende Juni,p_zn,"Zink 1,2,3",ppm,25.0,80.0
+Zuckerrübe,Ende Juni,p_fe,Eisen 4,ppm,50.0,150.0
+Zuckerrübe,Ende Juni,p_mo,"Molybdän 1,2,3",ppm,0.15,1.5
+Zuckerrübe,Ende Juni,p_co,Cobalt,ppm,0.01,0.4
+Zuckerrübe,Ende Juni,p_se,Selen,ppm,0.01,0.5
+Zuckerrübe,Ende Juli,p_n,"Stickstoff 1,2,3",% TS,3.7,5.3
+Zuckerrübe,Ende Juli,p_ca,Calcium 2,% TS,0.7,2.0
+Zuckerrübe,Ende Juli,p_p,"Phosphor 1,2,3",% TS,0.3,0.54
+Zuckerrübe,Ende Juli,p_k,"Kalium 1,2,3",% TS,2.7,5.7
+Zuckerrübe,Ende Juli,p_mg,"Magnesium 1,2,3",% TS,0.3,1.1
+Zuckerrübe,Ende Juli,p_na,Natrium 4,% TS,0.01,2.0
+Zuckerrübe,Ende Juli,p_s,Schwefel 4,% TS,0.3,0.5
+Zuckerrübe,Ende Juli,p_b,"Bor 1,2,3",ppm,35.0,120.0
+Zuckerrübe,Ende Juli,p_mn,"Mangan 1,2,3",ppm,35.0,200.0
+Zuckerrübe,Ende Juli,p_cu,"Kupfer 1,2,3",ppm,5.2,16.5
+Zuckerrübe,Ende Juli,p_zn,"Zink 1,2,3",ppm,22.0,70.0
+Zuckerrübe,Ende Juli,p_fe,Eisen 4,ppm,50.0,150.0
+Zuckerrübe,Ende Juli,p_mo,"Molybdän 1,2,3",ppm,0.15,1.5
+Zuckerrübe,Ende Juli,p_co,Cobalt,ppm,0.01,0.4
+Zuckerrübe,Ende Juli,p_se,Selen,ppm,0.01,0.5
+Zuckerrübe,Ende August,p_n,"Stickstoff 1,2,3",% TS,3.4,4.9
+Zuckerrübe,Ende August,p_ca,Calcium 2,% TS,0.7,2.0
+Zuckerrübe,Ende August,p_p,"Phosphor 1,2,3",% TS,0.28,0.5
+Zuckerrübe,Ende August,p_k,"Kalium 1,2,3",% TS,2.4,5.4
+Zuckerrübe,Ende August,p_mg,"Magnesium 1,2,3",% TS,0.3,1.1
+Zuckerrübe,Ende August,p_na,Natrium 4,% TS,0.01,2.0
+Zuckerrübe,Ende August,p_s,Schwefel 4,% TS,0.3,0.5
+Zuckerrübe,Ende August,p_b,"Bor 1,2,3",ppm,31.0,100.0
+Zuckerrübe,Ende August,p_mn,"Mangan 1,2,3",ppm,30.0,200.0
+Zuckerrübe,Ende August,p_cu,"Kupfer 1,2,3",ppm,5.0,16.0
+Zuckerrübe,Ende August,p_zn,"Zink 1,2,3",ppm,18.0,60.0
+Zuckerrübe,Ende August,p_fe,Eisen 4,ppm,50.0,150.0
+Zuckerrübe,Ende August,p_mo,"Molybdän 1,2,3",ppm,0.15,1.4
+Zuckerrübe,Ende August,p_co,Cobalt,ppm,0.01,0.4
+Zuckerrübe,Ende August,p_se,Selen,ppm,0.01,0.5
+Mais,40-60 cm,p_n,"Stickstoff 1,2",% TS,3.5,5.0
+Mais,40-60 cm,p_ca,Calcium 2,% TS,0.3,1.0
+Mais,40-60 cm,p_p,"Phosphor 1,2",% TS,0.3,0.5
+Mais,40-60 cm,p_k,"Kalium 1,2",% TS,3.1,5.0
+Mais,40-60 cm,p_mg,"Magnesium 1,2",% TS,0.16,0.5
+Mais,40-60 cm,p_na,Natrium 3,% TS,0.01,2.0
+Mais,40-60 cm,p_s,Schwefel 3,% TS,0.3,0.47
+Mais,40-60 cm,p_b,"Bor 1,2",ppm,7.0,30.0
+Mais,40-60 cm,p_mn,"Mangan 1,2",ppm,40.0,160.0
+Mais,40-60 cm,p_cu,"Kupfer 1,2",ppm,6.0,17.0
+Mais,40-60 cm,p_zn,"Zink 1,2",ppm,22.0,70.0
+Mais,40-60 cm,p_fe,Eisen 3,ppm,50.0,150.0
+Mais,40-60 cm,p_mo,Molybdän 2,ppm,0.2,0.5
+Mais,40-60 cm,p_co,Cobalt,ppm,0.01,0.4
+Mais,40-60 cm,p_se,Selen,ppm,0.01,0.5
+Mais,Rispenschieben,p_n,"Stickstoff 1,2",% TS,3.3,4.0
+Mais,Rispenschieben,p_ca,Calcium 2,% TS,0.3,1.0
+Mais,Rispenschieben,p_p,"Phosphor 1,2",% TS,0.22,0.4
+Mais,Rispenschieben,p_k,"Kalium 1,2",% TS,2.5,4.5
+Mais,Rispenschieben,p_mg,"Magnesium 1,2",% TS,0.2,0.5
+Mais,Rispenschieben,p_na,Natrium 3,% TS,0.01,2.0
+Mais,Rispenschieben,p_s,Schwefel 3,% TS,0.3,0.47
+Mais,Rispenschieben,p_b,"Bor 1,2",ppm,7.0,20.0
+Mais,Rispenschieben,p_mn,"Mangan 1,2",ppm,35.0,150.0
+Mais,Rispenschieben,p_cu,"Kupfer 1,2",ppm,7.0,16.5
+Mais,Rispenschieben,p_zn,"Zink 1,2",ppm,22.0,70.0
+Mais,Rispenschieben,p_fe,Eisen 3,ppm,50.0,150.0
+Mais,Rispenschieben,p_mo,Molybdän 2,ppm,0.2,0.5
+Mais,Rispenschieben,p_co,Cobalt,ppm,0.01,0.4
+Mais,Rispenschieben,p_se,Selen,ppm,0.01,0.5
+Mais,Blüte,p_n,"Stickstoff 1,2",% TS,2.8,3.5
+Mais,Blüte,p_ca,Calcium 2,% TS,0.3,1.0
+Mais,Blüte,p_p,"Phosphor 1,2",% TS,0.16,0.35
+Mais,Blüte,p_k,"Kalium 1,2",% TS,2.0,4.0
+Mais,Blüte,p_mg,"Magnesium 1,2",% TS,0.2,0.5
+Mais,Blüte,p_na,Natrium 3,% TS,0.01,2.0
+Mais,Blüte,p_s,Schwefel 3,% TS,0.3,0.47
+Mais,Blüte,p_b,"Bor 1,2",ppm,8.0,20.0
+Mais,Blüte,p_mn,"Mangan 1,2",ppm,20.0,150.0
+Mais,Blüte,p_cu,"Kupfer 1,2",ppm,8.0,16.0
+Mais,Blüte,p_zn,"Zink 1,2",ppm,22.0,60.0
+Mais,Blüte,p_fe,Eisen 3,ppm,50.0,150.0
+Mais,Blüte,p_mo,Molybdän 2,ppm,0.2,0.5
+Mais,Blüte,p_co,Cobalt,ppm,0.01,0.4
+Mais,Blüte,p_se,Selen,ppm,0.01,0.5
+Kartoffel,Knospenstadium,p_n,"Stickstoff 1,2",% TS,5.1,6.8
+Kartoffel,Knospenstadium,p_ca,Calcium 2,% TS,0.6,2.0
+Kartoffel,Knospenstadium,p_p,"Phosphor 1,2",% TS,0.35,0.7
+Kartoffel,Knospenstadium,p_k,"Kalium 1,2",% TS,4.5,7.0
+Kartoffel,Knospenstadium,p_mg,"Magnesium 1,2",% TS,0.22,0.5
+Kartoffel,Knospenstadium,p_na,Natrium 3,% TS,0.01,2.0
+Kartoffel,Knospenstadium,p_s,Schwefel 3,% TS,0.33,0.53
+Kartoffel,Knospenstadium,p_b,"Bor 1,2",ppm,20.0,60.0
+Kartoffel,Knospenstadium,p_mn,"Mangan 1,2",ppm,40.0,200.0
+Kartoffel,Knospenstadium,p_cu,Kupfer 2,ppm,7.0,15.0
+Kartoffel,Knospenstadium,p_zn,"Zink 1,2",ppm,23.0,80.0
+Kartoffel,Knospenstadium,p_fe,Eisen 3,ppm,50.0,150.0
+Kartoffel,Knospenstadium,p_mo,Molybdän 2,ppm,0.2,0.5
+Kartoffel,Knospenstadium,p_co,Cobalt,ppm,0.01,0.4
+Kartoffel,Knospenstadium,p_se,Selen,ppm,0.01,0.5
+Kartoffel,Blühbeginn,p_n,"Stickstoff 1,2",% TS,4.5,6.0
+Kartoffel,Blühbeginn,p_ca,Calcium 2,% TS,0.6,2.0
+Kartoffel,Blühbeginn,p_p,"Phosphor 1,2",% TS,0.3,0.61
+Kartoffel,Blühbeginn,p_k,"Kalium 1,2",% TS,4.0,6.4
+Kartoffel,Blühbeginn,p_mg,"Magnesium 1,2",% TS,0.24,0.6
+Kartoffel,Blühbeginn,p_na,Natrium 3,% TS,0.01,2.0
+Kartoffel,Blühbeginn,p_s,Schwefel 3,% TS,0.33,0.53
+Kartoffel,Blühbeginn,p_b,"Bor 1,2",ppm,25.0,70.0
+Kartoffel,Blühbeginn,p_mn,"Mangan 1,2",ppm,35.0,200.0
+Kartoffel,Blühbeginn,p_cu,Kupfer 2,ppm,7.0,15.0
+Kartoffel,Blühbeginn,p_zn,"Zink 1,2",ppm,20.0,80.0
+Kartoffel,Blühbeginn,p_fe,Eisen 3,ppm,50.0,150.0
+Kartoffel,Blühbeginn,p_mo,Molybdän 2,ppm,0.2,0.5
+Kartoffel,Blühbeginn,p_co,Cobalt,ppm,0.01,0.4
+Kartoffel,Blühbeginn,p_se,Selen,ppm,0.01,0.5
+Kartoffel,Blühende,p_n,"Stickstoff 1,2",% TS,3.9,5.2
+Kartoffel,Blühende,p_ca,Calcium 2,% TS,0.6,2.0
+Kartoffel,Blühende,p_p,"Phosphor 1,2",% TS,0.27,0.55
+Kartoffel,Blühende,p_k,"Kalium 1,2",% TS,3.7,6.1
+Kartoffel,Blühende,p_mg,"Magnesium 1,2",% TS,0.27,0.68
+Kartoffel,Blühende,p_na,Natrium 3,% TS,0.01,2.0
+Kartoffel,Blühende,p_s,Schwefel 3,% TS,0.33,0.53
+Kartoffel,Blühende,p_b,"Bor 1,2",ppm,21.0,50.0
+Kartoffel,Blühende,p_mn,"Mangan 1,2",ppm,35.0,200.0
+Kartoffel,Blühende,p_cu,Kupfer 2,ppm,7.0,15.0
+Kartoffel,Blühende,p_zn,"Zink 1,2",ppm,18.0,70.0
+Kartoffel,Blühende,p_fe,Eisen 3,ppm,50.0,150.0
+Kartoffel,Blühende,p_mo,Molybdän 2,ppm,0.2,0.5
+Kartoffel,Blühende,p_co,Cobalt,ppm,0.01,0.4
+Kartoffel,Blühende,p_se,Selen,ppm,0.01,0.5
+Kartoffel,Knollenbildung,p_n,"Stickstoff 1,2",% TS,3.2,4.6
+Kartoffel,Knollenbildung,p_ca,Calcium 2,% TS,0.6,2.0
+Kartoffel,Knollenbildung,p_p,"Phosphor 1,2",% TS,0.25,0.55
+Kartoffel,Knollenbildung,p_k,"Kalium 1,2",% TS,3.5,5.7
+Kartoffel,Knollenbildung,p_mg,"Magnesium 1,2",% TS,0.29,0.72
+Kartoffel,Knollenbildung,p_na,Natrium 3,% TS,0.01,2.0
+Kartoffel,Knollenbildung,p_s,Schwefel 3,% TS,0.33,0.53
+Kartoffel,Knollenbildung,p_b,"Bor 1,2",ppm,21.0,50.0
+Kartoffel,Knollenbildung,p_mn,"Mangan 1,2",ppm,30.0,200.0
+Kartoffel,Knollenbildung,p_cu,Kupfer 2,ppm,7.0,15.0
+Kartoffel,Knollenbildung,p_zn,"Zink 1,2",ppm,15.0,70.0
+Kartoffel,Knollenbildung,p_fe,Eisen 3,ppm,50.0,150.0
+Kartoffel,Knollenbildung,p_mo,Molybdän 2,ppm,0.2,0.5
+Kartoffel,Knollenbildung,p_co,Cobalt,ppm,0.01,0.4
+Kartoffel,Knollenbildung,p_se,Selen,ppm,0.01,0.5
+Erbse,30-40 cm,p_n,"Stickstoff 1,2",% TS,3.2,4.7
+Erbse,30-40 cm,p_ca,Calcium 2,% TS,0.5,2.0
+Erbse,30-40 cm,p_p,"Phosphor 1,2",% TS,0.27,0.44
+Erbse,30-40 cm,p_k,"Kalium 1,2",% TS,2.3,4.1
+Erbse,30-40 cm,p_mg,"Magnesium 1,2",% TS,0.18,0.36
+Erbse,30-40 cm,p_na,Natrium 3,% TS,0.01,2.0
+Erbse,30-40 cm,p_s,Schwefel 3,% TS,0.5,0.87
+Erbse,30-40 cm,p_b,"Bor 1,2",ppm,18.0,37.0
+Erbse,30-40 cm,p_mn,"Mangan 1,2",ppm,32.0,82.0
+Erbse,30-40 cm,p_cu,"Kupfer 1,2",ppm,6.0,10.0
+Erbse,30-40 cm,p_zn,"Zink 1,2",ppm,28.0,65.0
+Erbse,30-40 cm,p_fe,Eisen 3,ppm,50.0,150.0
+Erbse,30-40 cm,p_mo,Molybdän 2,ppm,0.4,1.0
+Erbse,30-40 cm,p_co,Cobalt,ppm,0.01,0.4
+Erbse,30-40 cm,p_se,Selen,ppm,0.01,0.5
+Erbse,Blühbeginn,p_n,"Stickstoff 1,2",% TS,2.6,4.2
+Erbse,Blühbeginn,p_ca,Calcium 2,% TS,0.5,2.0
+Erbse,Blühbeginn,p_p,"Phosphor 1,2",% TS,0.2,0.39
+Erbse,Blühbeginn,p_k,"Kalium 1,2",% TS,1.6,3.4
+Erbse,Blühbeginn,p_mg,"Magnesium 1,2",% TS,0.15,0.3
+Erbse,Blühbeginn,p_na,Natrium 3,% TS,0.01,2.0
+Erbse,Blühbeginn,p_s,Schwefel 3,% TS,0.5,0.87
+Erbse,Blühbeginn,p_b,"Bor 1,2",ppm,16.0,30.0
+Erbse,Blühbeginn,p_mn,"Mangan 1,2",ppm,24.0,72.0
+Erbse,Blühbeginn,p_cu,"Kupfer 1,2",ppm,4.6,9.0
+Erbse,Blühbeginn,p_zn,"Zink 1,2",ppm,22.0,55.0
+Erbse,Blühbeginn,p_fe,Eisen 3,ppm,50.0,150.0
+Erbse,Blühbeginn,p_mo,Molybdän 2,ppm,0.4,1.0
+Erbse,Blühbeginn,p_co,Cobalt,ppm,0.01,0.4
+Erbse,Blühbeginn,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC 28,p_b,Bor,ppm,6.0,12.0
+Sommergerste,EC 28,p_ca,Calcium,%TS,0.5,1.0
+Sommergerste,EC 28,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC 28,p_k,Kalium,%TS,3.6,5.5
+Sommergerste,EC 28,p_cu,Kupfer,ppm,5.0,16.5
+Sommergerste,EC 28,p_mg,Magnesium,%TS,0.11,0.22
+Sommergerste,EC 28,p_mn,Mangan,ppm,28.0,150.0
+Sommergerste,EC 28,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC 28,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC 28,p_p,Phosphor,%TS,0.36,0.76
+Sommergerste,EC 28,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC 28,p_n,Stickstoff,%TS,3.5,6.4
+Sommergerste,EC 28,p_zn,Zink,ppm,25.0,75.0
+Sommergerste,EC 28,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC 28,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC 29,p_b,Bor,ppm,6.0,12.0
+Sommergerste,EC 29,p_ca,Calcium,%TS,0.5,1.0
+Sommergerste,EC 29,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC 29,p_k,Kalium,%TS,3.2,5.6
+Sommergerste,EC 29,p_cu,Kupfer,ppm,4.7,16.0
+Sommergerste,EC 29,p_mg,Magnesium,%TS,0.1,0.2
+Sommergerste,EC 29,p_mn,Mangan,ppm,27.0,145.0
+Sommergerste,EC 29,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC 29,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC 29,p_p,Phosphor,%TS,0.34,0.71
+Sommergerste,EC 29,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC 29,p_n,Stickstoff,%TS,2.9,5.5
+Sommergerste,EC 29,p_zn,Zink,ppm,22.0,75.0
+Sommergerste,EC 29,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC 29,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC 30-31,p_b,Bor,ppm,6.0,12.0
+Sommergerste,EC 30-31,p_ca,Calcium,%TS,0.5,1.0
+Sommergerste,EC 30-31,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC 30-31,p_k,Kalium,%TS,2.9,5.5
+Sommergerste,EC 30-31,p_cu,Kupfer,ppm,4.5,15.5
+Sommergerste,EC 30-31,p_mg,Magnesium,%TS,0.09,0.19
+Sommergerste,EC 30-31,p_mn,Mangan,ppm,26.0,140.0
+Sommergerste,EC 30-31,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC 30-31,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC 30-31,p_p,Phosphor,%TS,0.33,0.67
+Sommergerste,EC 30-31,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC 30-31,p_n,Stickstoff,%TS,2.4,4.7
+Sommergerste,EC 30-31,p_zn,Zink,ppm,19.0,65.0
+Sommergerste,EC 30-31,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC 30-31,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC 31,p_b,Bor,ppm,6.0,12.0
+Sommergerste,EC 31,p_ca,Calcium,%TS,0.5,1.0
+Sommergerste,EC 31,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC 31,p_k,Kalium,%TS,2.9,5.5
+Sommergerste,EC 31,p_cu,Kupfer,ppm,4.5,15.5
+Sommergerste,EC 31,p_mg,Magnesium,%TS,0.09,0.19
+Sommergerste,EC 31,p_mn,Mangan,ppm,26.0,140.0
+Sommergerste,EC 31,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC 31,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC 31,p_p,Phosphor,%TS,0.33,0.67
+Sommergerste,EC 31,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC 31,p_n,Stickstoff,%TS,2.4,4.7
+Sommergerste,EC 31,p_zn,Zink,ppm,19.0,65.0
+Sommergerste,EC 31,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC 31,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC 32-36,p_b,Bor,ppm,6.0,12.0
+Sommergerste,EC 32-36,p_ca,Calcium,%TS,0.5,1.0
+Sommergerste,EC 32-36,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC 32-36,p_k,Kalium,%TS,2.6,5.3
+Sommergerste,EC 32-36,p_cu,Kupfer,ppm,4.3,15.0
+Sommergerste,EC 32-36,p_mg,Magnesium,%TS,0.08,0.18
+Sommergerste,EC 32-36,p_mn,Mangan,ppm,25.0,140.0
+Sommergerste,EC 32-36,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC 32-36,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC 32-36,p_p,Phosphor,%TS,0.32,0.64
+Sommergerste,EC 32-36,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC 32-36,p_n,Stickstoff,%TS,2.1,4.3
+Sommergerste,EC 32-36,p_zn,Zink,ppm,17.0,65.0
+Sommergerste,EC 32-36,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC 32-36,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC 37-38,p_b,Bor,ppm,6.0,12.0
+Sommergerste,EC 37-38,p_ca,Calcium,%TS,0.5,1.0
+Sommergerste,EC 37-38,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC 37-38,p_k,Kalium,%TS,2.3,5.0
+Sommergerste,EC 37-38,p_cu,Kupfer,ppm,4.0,14.5
+Sommergerste,EC 37-38,p_mg,Magnesium,%TS,0.08,0.16
+Sommergerste,EC 37-38,p_mn,Mangan,ppm,24.0,135.0
+Sommergerste,EC 37-38,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC 37-38,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC 37-38,p_p,Phosphor,%TS,0.31,0.59
+Sommergerste,EC 37-38,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC 37-38,p_n,Stickstoff,%TS,1.9,3.8
+Sommergerste,EC 37-38,p_zn,Zink,ppm,16.0,60.0
+Sommergerste,EC 37-38,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC 37-38,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC 39-41,p_b,Bor,ppm,6.0,12.0
+Sommergerste,EC 39-41,p_ca,Calcium,%TS,0.5,1.0
+Sommergerste,EC 39-41,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC 39-41,p_k,Kalium,%TS,2.1,4.6
+Sommergerste,EC 39-41,p_cu,Kupfer,ppm,3.7,14.0
+Sommergerste,EC 39-41,p_mg,Magnesium,%TS,0.08,0.15
+Sommergerste,EC 39-41,p_mn,Mangan,ppm,23.0,130.0
+Sommergerste,EC 39-41,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC 39-41,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC 39-41,p_p,Phosphor,%TS,0.3,0.56
+Sommergerste,EC 39-41,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC 39-41,p_n,Stickstoff,%TS,1.8,3.5
+Sommergerste,EC 39-41,p_zn,Zink,ppm,15.0,60.0
+Sommergerste,EC 39-41,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC 39-41,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC 42-45,p_b,Bor,ppm,5.0,10.0
+Sommergerste,EC 42-45,p_ca,Calcium,%TS,0.45,1.0
+Sommergerste,EC 42-45,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC 42-45,p_k,Kalium,%TS,2.0,4.2
+Sommergerste,EC 42-45,p_cu,Kupfer,ppm,3.7,13.0
+Sommergerste,EC 42-45,p_mg,Magnesium,%TS,0.07,0.15
+Sommergerste,EC 42-45,p_mn,Mangan,ppm,22.0,130.0
+Sommergerste,EC 42-45,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC 42-45,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC 42-45,p_p,Phosphor,%TS,0.3,0.52
+Sommergerste,EC 42-45,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC 42-45,p_n,Stickstoff,%TS,1.7,3.3
+Sommergerste,EC 42-45,p_zn,Zink,ppm,14.0,60.0
+Sommergerste,EC 42-45,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC 42-45,p_se,Selen,ppm,0.01,0.5
+Sommergerste,EC >45,p_b,Bor,ppm,5.0,10.0
+Sommergerste,EC >45,p_ca,Calcium,%TS,0.45,1.0
+Sommergerste,EC >45,p_fe,Eisen,ppm,50.0,150.0
+Sommergerste,EC >45,p_k,Kalium,%TS,2.0,4.2
+Sommergerste,EC >45,p_cu,Kupfer,ppm,3.7,13.0
+Sommergerste,EC >45,p_mg,Magnesium,%TS,0.07,0.15
+Sommergerste,EC >45,p_mn,Mangan,ppm,22.0,130.0
+Sommergerste,EC >45,p_mo,Molybdän,ppm,0.1,0.3
+Sommergerste,EC >45,p_na,Natrium,%TS,0.01,2.0
+Sommergerste,EC >45,p_p,Phosphor,%TS,0.3,0.52
+Sommergerste,EC >45,p_s,Schwefel,%TS,0.37,0.5
+Sommergerste,EC >45,p_n,Stickstoff,%TS,1.7,3.3
+Sommergerste,EC >45,p_zn,Zink,ppm,14.0,60.0
+Sommergerste,EC >45,p_co,Cobalt,ppm,0.01,0.4
+Sommergerste,EC >45,p_se,Selen,ppm,0.01,0.5
+Wintertriticale,EC 28,p_b,Bor,ppm,6.0,12.0
+Wintertriticale,EC 28,p_ca,Calcium,%TS,0.4,1.0
+Wintertriticale,EC 28,p_fe,Eisen,ppm,50.0,150.0
+Wintertriticale,EC 28,p_k,Kalium,%TS,3.4,4.9
+Wintertriticale,EC 28,p_cu,Kupfer,ppm,5.5,17.0
+Wintertriticale,EC 28,p_mg,Magnesium,%TS,0.1,0.24
+Wintertriticale,EC 28,p_mn,Mangan,ppm,35.0,155.0
+Wintertriticale,EC 28,p_mo,Molybdän,ppm,0.2,0.5
+Wintertriticale,EC 28,p_na,Natrium,%TS,0.01,2.0
+Wintertriticale,EC 28,p_p,Phosphor,%TS,0.36,0.76
+Wintertriticale,EC 28,p_s,Schwefel,%TS,0.3,0.42
+Wintertriticale,EC 28,p_n,Stickstoff,%TS,3.5,5.6
+Wintertriticale,EC 28,p_zn,Zink,ppm,27.0,80.0
+Wintertriticale,EC 28,p_co,Cobalt,ppm,0.01,0.4
+Wintertriticale,EC 28,p_se,Selen,ppm,0.01,0.5
+Wintertriticale,EC 29,p_b,Bor,ppm,6.0,12.0
+Wintertriticale,EC 29,p_ca,Calcium,%TS,0.4,1.0
+Wintertriticale,EC 29,p_fe,Eisen,ppm,50.0,150.0
+Wintertriticale,EC 29,p_k,Kalium,%TS,3.4,5.0
+Wintertriticale,EC 29,p_cu,Kupfer,ppm,5.2,16.5
+Wintertriticale,EC 29,p_mg,Magnesium,%TS,0.09,0.23
+Wintertriticale,EC 29,p_mn,Mangan,ppm,32.0,150.0
+Wintertriticale,EC 29,p_mo,Molybdän,ppm,0.2,0.5
+Wintertriticale,EC 29,p_na,Natrium,%TS,0.01,2.0
+Wintertriticale,EC 29,p_p,Phosphor,%TS,0.31,0.7
+Wintertriticale,EC 29,p_s,Schwefel,%TS,0.3,0.42
+Wintertriticale,EC 29,p_n,Stickstoff,%TS,3.0,5.0
+Wintertriticale,EC 29,p_zn,Zink,ppm,24.0,80.0
+Wintertriticale,EC 29,p_co,Cobalt,ppm,0.01,0.4
+Wintertriticale,EC 29,p_se,Selen,ppm,0.01,0.5
+Wintertriticale,EC 30-31,p_b,Bor,ppm,6.0,12.0
+Wintertriticale,EC 30-31,p_ca,Calcium,%TS,0.4,1.0
+Wintertriticale,EC 30-31,p_fe,Eisen,ppm,50.0,150.0
+Wintertriticale,EC 30-31,p_k,Kalium,%TS,3.3,5.0
+Wintertriticale,EC 30-31,p_cu,Kupfer,ppm,5.0,16.0
+Wintertriticale,EC 30-31,p_mg,Magnesium,%TS,0.08,0.22
+Wintertriticale,EC 30-31,p_mn,Mangan,ppm,30.0,145.0
+Wintertriticale,EC 30-31,p_mo,Molybdän,ppm,0.2,0.5
+Wintertriticale,EC 30-31,p_na,Natrium,%TS,0.01,2.0
+Wintertriticale,EC 30-31,p_p,Phosphor,%TS,0.27,0.65
+Wintertriticale,EC 30-31,p_s,Schwefel,%TS,0.3,0.42
+Wintertriticale,EC 30-31,p_n,Stickstoff,%TS,2.6,4.6
+Wintertriticale,EC 30-31,p_zn,Zink,ppm,21.0,70.0
+Wintertriticale,EC 30-31,p_co,Cobalt,ppm,0.01,0.4
+Wintertriticale,EC 30-31,p_se,Selen,ppm,0.01,0.5
+Wintertriticale,EC 32-36,p_b,Bor,ppm,6.0,12.0
+Wintertriticale,EC 32-36,p_ca,Calcium,%TS,0.4,1.0
+Wintertriticale,EC 32-36,p_fe,Eisen,ppm,50.0,150.0
+Wintertriticale,EC 32-36,p_k,Kalium,%TS,3.2,4.9
+Wintertriticale,EC 32-36,p_cu,Kupfer,ppm,4.6,15.0
+Wintertriticale,EC 32-36,p_mg,Magnesium,%TS,0.08,0.22
+Wintertriticale,EC 32-36,p_mn,Mangan,ppm,27.0,145.0
+Wintertriticale,EC 32-36,p_mo,Molybdän,ppm,0.2,0.5
+Wintertriticale,EC 32-36,p_na,Natrium,%TS,0.01,2.0
+Wintertriticale,EC 32-36,p_p,Phosphor,%TS,0.24,0.6
+Wintertriticale,EC 32-36,p_s,Schwefel,%TS,0.3,0.42
+Wintertriticale,EC 32-36,p_n,Stickstoff,%TS,2.2,4.1
+Wintertriticale,EC 32-36,p_zn,Zink,ppm,18.0,70.0
+Wintertriticale,EC 32-36,p_co,Cobalt,ppm,0.01,0.4
+Wintertriticale,EC 32-36,p_se,Selen,ppm,0.01,0.5
+Wintertriticale,EC 37-38,p_b,Bor,ppm,5.0,10.0
+Wintertriticale,EC 37-38,p_ca,Calcium,%TS,0.35,1.0
+Wintertriticale,EC 37-38,p_fe,Eisen,ppm,50.0,150.0
+Wintertriticale,EC 37-38,p_k,Kalium,%TS,3.0,4.6
+Wintertriticale,EC 37-38,p_cu,Kupfer,ppm,4.3,14.0
+Wintertriticale,EC 37-38,p_mg,Magnesium,%TS,0.07,0.21
+Wintertriticale,EC 37-38,p_mn,Mangan,ppm,24.0,140.0
+Wintertriticale,EC 37-38,p_mo,Molybdän,ppm,0.2,0.5
+Wintertriticale,EC 37-38,p_na,Natrium,%TS,0.01,2.0
+Wintertriticale,EC 37-38,p_p,Phosphor,%TS,0.22,0.54
+Wintertriticale,EC 37-38,p_s,Schwefel,%TS,0.3,0.42
+Wintertriticale,EC 37-38,p_n,Stickstoff,%TS,1.9,3.5
+Wintertriticale,EC 37-38,p_zn,Zink,ppm,17.0,65.0
+Wintertriticale,EC 37-38,p_co,Cobalt,ppm,0.01,0.4
+Wintertriticale,EC 37-38,p_se,Selen,ppm,0.01,0.5
+Wintertriticale,EC 39-41,p_b,Bor,ppm,5.0,10.0
+Wintertriticale,EC 39-41,p_ca,Calcium,%TS,0.35,1.0
+Wintertriticale,EC 39-41,p_fe,Eisen,ppm,50.0,150.0
+Wintertriticale,EC 39-41,p_k,Kalium,%TS,2.8,4.3
+Wintertriticale,EC 39-41,p_cu,Kupfer,ppm,4.0,13.5
+Wintertriticale,EC 39-41,p_mg,Magnesium,%TS,0.07,0.2
+Wintertriticale,EC 39-41,p_mn,Mangan,ppm,22.0,135.0
+Wintertriticale,EC 39-41,p_mo,Molybdän,ppm,0.2,0.5
+Wintertriticale,EC 39-41,p_na,Natrium,%TS,0.01,2.0
+Wintertriticale,EC 39-41,p_p,Phosphor,%TS,0.21,0.48
+Wintertriticale,EC 39-41,p_s,Schwefel,%TS,0.3,0.42
+Wintertriticale,EC 39-41,p_n,Stickstoff,%TS,1.8,3.1
+Wintertriticale,EC 39-41,p_zn,Zink,ppm,16.0,65.0
+Wintertriticale,EC 39-41,p_co,Cobalt,ppm,0.01,0.4
+Wintertriticale,EC 39-41,p_se,Selen,ppm,0.01,0.5
+Wintertriticale,EC 42-45,p_b,Bor,ppm,5.0,10.0
+Wintertriticale,EC 42-45,p_ca,Calcium,%TS,0.35,1.0
+Wintertriticale,EC 42-45,p_fe,Eisen,ppm,50.0,150.0
+Wintertriticale,EC 42-45,p_k,Kalium,%TS,2.5,3.9
+Wintertriticale,EC 42-45,p_cu,Kupfer,ppm,3.8,13.0
+Wintertriticale,EC 42-45,p_mg,Magnesium,%TS,0.06,0.18
+Wintertriticale,EC 42-45,p_mn,Mangan,ppm,27.0,145.0
+Wintertriticale,EC 42-45,p_mo,Molybdän,ppm,0.2,0.5
+Wintertriticale,EC 42-45,p_na,Natrium,%TS,0.01,2.0
+Wintertriticale,EC 42-45,p_p,Phosphor,%TS,0.2,0.44
+Wintertriticale,EC 42-45,p_s,Schwefel,%TS,0.3,0.42
+Wintertriticale,EC 42-45,p_n,Stickstoff,%TS,1.5,2.8
+Wintertriticale,EC 42-45,p_zn,Zink,ppm,15.0,65.0
+Wintertriticale,EC 42-45,p_co,Cobalt,ppm,0.01,0.4
+Wintertriticale,EC 42-45,p_se,Selen,ppm,0.01,0.5
+Winterdurum,EC 24-28,p_n,"Stickstoff 1,2,3",% TS,3.6,5.5
+Winterdurum,EC 24-28,p_ca,"Calcium 1,2,3",% TS,0.52,0.78
+Winterdurum,EC 24-28,p_p,"Phosphor 1,2,3",% TS,0.39,0.62
+Winterdurum,EC 24-28,p_k,"Kalium 1,2,3",% TS,3.4,5.1
+Winterdurum,EC 24-28,p_mg,"Magnesium 1,2,3",% TS,0.08,0.15
+Winterdurum,EC 24-28,p_na,Natrium 4,% TS,0.004,2.0
+Winterdurum,EC 24-28,p_s,Schwefel 4,% TS,0.37,0.5
+Winterdurum,EC 24-28,p_b,Bor 2,ppm,6.0,12.0
+Winterdurum,EC 24-28,p_mn,"Mangan 1,2,3",ppm,33.0,116.0
+Winterdurum,EC 24-28,p_cu,"Kupfer 1,2,3",ppm,4.9,11.3
+Winterdurum,EC 24-28,p_zn,"Zink 1,2,3",ppm,23.0,34.0
+Winterdurum,EC 24-28,p_fe,Eisen 4,ppm,50.0,150.0
+Winterdurum,EC 24-28,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterdurum,EC 24-28,p_co,Cobalt,ppm,0.01,0.4
+Winterdurum,EC 24-28,p_se,Selen,ppm,0.01,0.5
+Winterdurum,EC 29-30,p_n,"Stickstoff 1,2,3",% TS,3.2,5.2
+Winterdurum,EC 29-30,p_ca,"Calcium 1,2,3",% TS,0.44,0.72
+Winterdurum,EC 29-30,p_p,"Phosphor 1,2,3",% TS,0.36,0.57
+Winterdurum,EC 29-30,p_k,"Kalium 1,2,3",% TS,3.3,5.1
+Winterdurum,EC 29-30,p_mg,"Magnesium 1,2,3",% TS,0.08,0.16
+Winterdurum,EC 29-30,p_na,Natrium 4,% TS,0.004,2.0
+Winterdurum,EC 29-30,p_s,Schwefel 4,% TS,0.3,0.5
+Winterdurum,EC 29-30,p_b,Bor 2,ppm,6.0,12.0
+Winterdurum,EC 29-30,p_mn,"Mangan 1,2,3",ppm,31.0,100.0
+Winterdurum,EC 29-30,p_cu,"Kupfer 1,2,3",ppm,4.4,11.2
+Winterdurum,EC 29-30,p_zn,"Zink 1,2,3",ppm,21.0,34.0
+Winterdurum,EC 29-30,p_fe,Eisen 4,ppm,50.0,150.0
+Winterdurum,EC 29-30,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterdurum,EC 29-30,p_co,Cobalt,ppm,0.01,0.4
+Winterdurum,EC 29-30,p_se,Selen,ppm,0.01,0.5
+Winterdurum,EC 31,p_n,"Stickstoff 1,2,3",% TS,2.8,4.8
+Winterdurum,EC 31,p_ca,"Calcium 1,2,3",% TS,0.38,0.66
+Winterdurum,EC 31,p_p,"Phosphor 1,2,3",% TS,0.33,0.52
+Winterdurum,EC 31,p_k,"Kalium 1,2,3",% TS,3.2,5.1
+Winterdurum,EC 31,p_mg,"Magnesium 1,2,3",% TS,0.08,0.17
+Winterdurum,EC 31,p_na,Natrium 4,% TS,0.004,2.0
+Winterdurum,EC 31,p_s,Schwefel 4,% TS,0.3,0.5
+Winterdurum,EC 31,p_b,Bor 2,ppm,6.0,12.0
+Winterdurum,EC 31,p_mn,"Mangan 1,2,3",ppm,29.0,88.0
+Winterdurum,EC 31,p_cu,"Kupfer 1,2,3",ppm,4.0,10.9
+Winterdurum,EC 31,p_zn,"Zink 1,2,3",ppm,19.0,34.0
+Winterdurum,EC 31,p_fe,Eisen 4,ppm,50.0,150.0
+Winterdurum,EC 31,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterdurum,EC 31,p_co,Cobalt,ppm,0.01,0.4
+Winterdurum,EC 31,p_se,Selen,ppm,0.01,0.5
+Winterdurum,EC 32-36,p_n,"Stickstoff 1,2,3",% TS,2.4,4.3
+Winterdurum,EC 32-36,p_ca,"Calcium 1,2,3",% TS,0.33,0.61
+Winterdurum,EC 32-36,p_p,"Phosphor 1,2,3",% TS,0.3,0.48
+Winterdurum,EC 32-36,p_k,"Kalium 1,2,3",% TS,3.0,4.8
+Winterdurum,EC 32-36,p_mg,"Magnesium 1,2,3",% TS,0.08,0.17
+Winterdurum,EC 32-36,p_na,Natrium 4,% TS,0.004,2.0
+Winterdurum,EC 32-36,p_s,Schwefel 4,% TS,0.3,0.5
+Winterdurum,EC 32-36,p_b,Bor 2,ppm,5.0,10.0
+Winterdurum,EC 32-36,p_mn,"Mangan 1,2,3",ppm,28.0,77.0
+Winterdurum,EC 32-36,p_cu,"Kupfer 1,2,3",ppm,3.6,10.6
+Winterdurum,EC 32-36,p_zn,"Zink 1,2,3",ppm,18.0,33.0
+Winterdurum,EC 32-36,p_fe,Eisen 4,ppm,50.0,150.0
+Winterdurum,EC 32-36,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterdurum,EC 32-36,p_co,Cobalt,ppm,0.01,0.4
+Winterdurum,EC 32-36,p_se,Selen,ppm,0.01,0.5
+Winterdurum,EC 37-38,p_n,"Stickstoff 1,2,3",% TS,2.2,3.8
+Winterdurum,EC 37-38,p_ca,"Calcium 1,2,3",% TS,0.3,0.56
+Winterdurum,EC 37-38,p_p,"Phosphor 1,2,3",% TS,0.28,0.44
+Winterdurum,EC 37-38,p_k,"Kalium 1,2,3",% TS,2.8,4.5
+Winterdurum,EC 37-38,p_mg,"Magnesium 1,2,3",% TS,0.08,0.16
+Winterdurum,EC 37-38,p_na,Natrium 4,% TS,0.01,2.0
+Winterdurum,EC 37-38,p_s,Schwefel 4,% TS,0.3,0.5
+Winterdurum,EC 37-38,p_b,Bor 2,ppm,5.0,10.0
+Winterdurum,EC 37-38,p_mn,"Mangan 1,2,3",ppm,28.0,70.0
+Winterdurum,EC 37-38,p_cu,"Kupfer 1,2,3",ppm,3.5,10.1
+Winterdurum,EC 37-38,p_zn,"Zink 1,2,3",ppm,17.0,31.0
+Winterdurum,EC 37-38,p_fe,Eisen 4,ppm,50.0,150.0
+Winterdurum,EC 37-38,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterdurum,EC 37-38,p_co,Cobalt,ppm,0.01,0.4
+Winterdurum,EC 37-38,p_se,Selen,ppm,0.01,0.5
+Winterdurum,EC 39-41,p_n,"Stickstoff 1,2,3",% TS,2.0,3.3
+Winterdurum,EC 39-41,p_ca,"Calcium 1,2,3",% TS,0.3,0.52
+Winterdurum,EC 39-41,p_p,"Phosphor 1,2,3",% TS,0.26,0.39
+Winterdurum,EC 39-41,p_k,"Kalium 1,2,3",% TS,2.5,4.0
+Winterdurum,EC 39-41,p_mg,"Magnesium 1,2,3",% TS,0.08,0.15
+Winterdurum,EC 39-41,p_na,Natrium 4,% TS,0.01,2.0
+Winterdurum,EC 39-41,p_s,Schwefel 4,% TS,0.3,0.5
+Winterdurum,EC 39-41,p_b,Bor 2,ppm,5.0,10.0
+Winterdurum,EC 39-41,p_mn,"Mangan 1,2,3",ppm,28.0,65.0
+Winterdurum,EC 39-41,p_cu,"Kupfer 1,2,3",ppm,3.4,9.5
+Winterdurum,EC 39-41,p_zn,"Zink 1,2,3",ppm,17.0,28.0
+Winterdurum,EC 39-41,p_fe,Eisen 4,ppm,50.0,150.0
+Winterdurum,EC 39-41,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterdurum,EC 39-41,p_co,Cobalt,ppm,0.01,0.4
+Winterdurum,EC 39-41,p_se,Selen,ppm,0.01,0.5
+Winterdurum,EC 42-45,p_n,"Stickstoff 1,2,3",% TS,1.8,2.7
+Winterdurum,EC 42-45,p_ca,"Calcium 1,2,3",% TS,0.31,0.48
+Winterdurum,EC 42-45,p_p,"Phosphor 1,2,3",% TS,0.25,0.35
+Winterdurum,EC 42-45,p_k,"Kalium 1,2,3",% TS,2.2,3.3
+Winterdurum,EC 42-45,p_mg,"Magnesium 1,2,3",% TS,0.08,0.13
+Winterdurum,EC 42-45,p_na,Natrium 4,% TS,0.01,2.0
+Winterdurum,EC 42-45,p_s,Schwefel 4,% TS,0.3,0.5
+Winterdurum,EC 42-45,p_b,Bor 2,ppm,5.0,10.0
+Winterdurum,EC 42-45,p_mn,"Mangan 1,2,3",ppm,30.0,63.0
+Winterdurum,EC 42-45,p_cu,"Kupfer 1,2,3",ppm,3.5,8.8
+Winterdurum,EC 42-45,p_zn,"Zink 1,2,3",ppm,17.0,24.0
+Winterdurum,EC 42-45,p_fe,Eisen 4,ppm,50.0,150.0
+Winterdurum,EC 42-45,p_mo,Molybdän 2,ppm,0.1,0.3
+Winterdurum,EC 42-45,p_co,Cobalt,ppm,0.01,0.4
+Winterdurum,EC 42-45,p_se,Selen,ppm,0.01,0.5
