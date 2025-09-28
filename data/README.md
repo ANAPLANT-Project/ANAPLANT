@@ -13,3 +13,7 @@
 | pH_Wert	| bezieht sich auf den Boden |
 | b_n to b_humus | Werte für den Boden (b) |
 | station_ | Daten Deutscher Wetterdienst |
+
+## License
+
+The sample data is licensed under CC BY-SA, see LICENSE.txt
