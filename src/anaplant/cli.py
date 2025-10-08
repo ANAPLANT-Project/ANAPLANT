@@ -9,6 +9,7 @@ import pandas as pd
 import anaplant.curves as curves
 import anaplant.top_percentile as top_percentile
 import anaplant.years as years
+import anaplant.apply_types as apply_types
 from anaplant.util import decimal_comma_str_to_float
 
 @click.group
@@ -50,14 +51,21 @@ def localize_yields_cli(yield_data: str, weather_station_list: str, dest_path: s
 @click.option('--nutrient-range-data', type=click.STRING, required=True)
 @click.option('--crop', type=click.STRING, default=None, required=False)
 @click.option('--plots-path', type=click.STRING, required=True)
+@click.option('--nutrient', type=click.STRING, required=False)
 
 def curves_cli(
     yield_data: str,
     nutrient_range_data: str, 
     crop: str | None,
+    nutrient: str | None,
     plots_path: str) -> None:
     min_samples = 8
-    yield_data_df = pl.read_csv(yield_data).drop_nulls(['ertrag (dt/ha)', 'entwicklungsstadium'])
+
+    yield_data_df = pl.read_csv(yield_data,
+                                encoding='ISO8859-1',
+                                separator=';',
+                                infer_schema=False)
+    yield_data_df = apply_types.types(yield_data_df)
     
     # combine entwicklungsstadiums
     yield_data_df = yield_data_df.with_columns(
@@ -81,7 +89,12 @@ def curves_cli(
         crops = (crop,)
 
     for _crop in crops:  
-        nutrients = tuple(nutrient_range_data_df.filter(pl.col('Kultur') == _crop)['id_element'].to_list())
+
+        if nutrient is None:
+            nutrients = tuple(nutrient_range_data_df.filter(pl.col('Kultur') == _crop)['id_element'].to_list())
+        else:
+            nutrients = (nutrient,)
+
         for _nutrient in nutrients:
             nutrient_info =  NUTRIENT_INFO[_nutrient]
             nutrient_range_crop_element = nutrient_range_data_df.filter(
@@ -90,7 +103,7 @@ def curves_cli(
             )
             
             # define equivalent classes of development stages
-            stage_map = {}
+#            stage_map = {}
 #            for row in nutrient_range_crop_element.iter_rows(named=True):
 #                target_range = row['min_labor'], row['max_labor']
 #                stage_name = row['Entwicklungsstadium']
@@ -101,6 +114,7 @@ def curves_cli(
 #
 #            # fuse rows with equivalent min_labor and max_labor
             yield_by_crop = yield_data_df.filter(pl.col('kultur') == _crop)
+
 #            def remap_stage(v):
 #                for value in stage_map.values():
 #                    if v in value:
@@ -110,29 +124,34 @@ def curves_cli(
 #            yield_by_crop = yield_by_crop.with_columns(
 #                pl.col('entwicklungsstadium').map_elements(
 #                    remap_stage, return_dtype=pl.List(pl.String))).drop_nulls('entwicklungsstadium')
+
             for stages, data in yield_by_crop.group_by(pl.col('entwicklungsstadium')):
                 nutrient_range = nutrient_range_data_df.filter(
                     (pl.col('Entwicklungsstadium') == stages[0]) & 
                     ((pl.col('id_element') == _nutrient)) & 
                     (pl.col('Kultur') == _crop)
                     )['min_labor', 'max_labor'].to_numpy().squeeze()
+
+                mikro = _nutrient in ['p_b', 'p_mn', 'p_cu', 'p_zn', 'p_fe']
                 
-                stages_str = stages[0]
-                crop_yield = data["ertrag (dt/ha)"].to_numpy()
-                measurement_site = data['versuchsfläche','gps_lat','gps_lon'].to_numpy()
-                nutrient_conc = data[_nutrient].to_numpy()
+                crop_yield=data["ertrag (dt/ha)"].to_numpy()
+
                 if len(crop_yield) >= min_samples:
                     try:
                         fig, new_range = curves.plot_curves(
                             crop_name=_crop, 
                             nutrient_info=nutrient_info, 
-                            measurement_site=measurement_site,
-                            crop_yield=crop_yield, 
-                            nutrient_conc=nutrient_conc, 
+                            versuch=data['versuchsfläche'].to_numpy(),
+                            oeko=data['öko/konv'].to_numpy(),
+                            crop_yield=crop_yield,
+                            nutrient_conc=data[_nutrient].to_numpy(),
                             stages=stages[0], 
                             nutrient_range=nutrient_range)
-                        fname = Path(plots_path) / f'kurven_{_crop}_{nutrient_info[0]}_{stages_str}.png'.lower()
-                        range_rows_out.append([_crop,_nutrient,stages_str, *new_range])
+                        fname = Path(plots_path) / f'kurven_{_crop}_{nutrient_info[0]}_{stages[0]}'.lower()
+                        if mikro:
+                            fname = f'{fname}_gesamt'
+                        fname = f'{fname}.png'
+                        range_rows_out.append([_crop,_nutrient,stages[0], *new_range])
                         print(f'Saving {fname}\n')
                         fig.savefig(fname)
                         plt.close(fig)
@@ -144,8 +163,41 @@ def curves_cli(
                         f'Got {len(crop_yield)} samples, needed {min_samples} or more.'
                         )
                     print(msg)
-        range_schema = {'Kultur': pl.String, 'nutrient': pl.String,'stage': pl.String, 'min': pl.Float64, 'max': pl.Float64}
-    pl.DataFrame(range_rows_out, schema=range_schema).write_csv('test.csv', separator=";", quote_style="always")
+
+                if not mikro:
+                    continue
+
+                duengung_spalte = _nutrient.replace('p_', 'd_')
+
+                data = data.remove(pl.col(duengung_spalte) & (pl.col('dat_düng') > pl.col('probenahme')))
+
+                crop_yield=data["ertrag (dt/ha)"].to_numpy()
+
+                if len(crop_yield) >= min_samples:
+                    try:
+                        fig, new_range = curves.plot_curves(
+                            crop_name=_crop,
+                            nutrient_info=nutrient_info,
+                            versuch=data['versuchsfläche'].to_numpy(),
+                            oeko=data['öko/konv'].to_numpy(),
+                            crop_yield=crop_yield,
+                            nutrient_conc=data[_nutrient].to_numpy(),
+                            stages=stages[0],
+                            nutrient_range=nutrient_range)
+                        fname = Path(plots_path) / f'kurven_{_crop}_{nutrient_info[0]}_{stages[0]}'.lower()
+                        fname = f'{fname}.png'
+                        range_rows_out.append([_crop,_nutrient,stages[0], *new_range])
+                        print(f'Saving {fname}\n')
+                        fig.savefig(fname)
+                        plt.close(fig)
+                    except ValueError as e:
+                        print(e.args)
+                else:
+                    msg = (
+                        f'Not enough samples for crop {_crop}, nutrient {_nutrient}, stages {stages}.'
+                        f'Got {len(crop_yield)} samples, needed {min_samples} or more.'
+                        )
+                    print(msg)
 
 @click.command
 @click.option('--yield-data', type=click.STRING, required=True)

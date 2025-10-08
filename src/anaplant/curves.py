@@ -119,7 +119,8 @@ def plot_curves(
         *,
         crop_yield: np.ndarray,
         nutrient_conc: np.ndarray,
-        measurement_site: np.ndarray,
+        versuch: np.ndarray,
+        oeko: np.ndarray,
         crop_name: str,
         nutrient_info: tuple[str,str, str],
         stages: tuple[str, ...],
@@ -134,7 +135,8 @@ def plot_curves(
 
     nan_mask = np.logical_or(np.isnan(nutrient_conc), np.isnan(crop_yield))
     crop_yield_valid, nutrient_conc_valid = np.stack([crop_yield, nutrient_conc])[:, ~nan_mask]
-    measurement_sites_valid = measurement_site[~nan_mask] 
+    versuch_valid = versuch[~nan_mask]
+    oeko_valid = oeko[~nan_mask]
     outlier_mask_y = percentile_threshold(crop_yield_valid, lower_percentile=0, upper_percentile=90)    
     outlier_mask_x = percentile_threshold(nutrient_conc_valid, lower_percentile=8, upper_percentile=92)
     outlier_masks_combined = np.logical_or(outlier_mask_y, outlier_mask_x)
@@ -142,32 +144,16 @@ def plot_curves(
     crop_yield_inliers, nutrient_conc_inliers = np.stack([crop_yield_valid, nutrient_conc_valid])[:, ~outlier_masks_combined]
     crop_yield_outliers, nutrient_conc_outliers = np.stack([crop_yield_valid, nutrient_conc_valid])[:, outlier_masks_combined]
     parameters = fit_curve(nutrient_conc_inliers, crop_yield_inliers)
-    
+
     # Diagramm erstellen
     fig, ax = plt.subplots(figsize=(9, 6))
-    # todo: break down the plotted data by origin 
-    lab_sites = ()
-    farm_sites = ()
-    for maybe_lab_site in np.unique(measurement_sites_valid[:, 0]):
-        example = np.where(measurement_sites_valid[:, 0] == maybe_lab_site)[0][0]
-        if measurement_sites_valid[example][1] == 1:
-            lab_sites += (maybe_lab_site,)
-        else:
-            farm_sites+= (maybe_lab_site,)  
+    # todo: break down the plotted data by origin
 
-    for index, site in enumerate(lab_sites + farm_sites):
-        site_mask = measurement_sites_valid[:, 0] == site
-        site_ort = measurement_sites_valid[site_mask][0][-1]
-        if site in lab_sites:
-            marker = lab_sites.index(site) + 5 
-            label = f"{site}, {site_ort}"
-        else:
-            marker = 'o'
-            if index == (len(lab_sites) + len(farm_sites)) - 1:
-                label = "On-farm"
-            else:
-                label = None
-        ax.scatter(nutrient_conc_valid[site_mask], crop_yield_valid[site_mask], label=label, marker=marker, color='gray')   
+    konv_valid = np.logical_and(np.logical_not(versuch_valid), np.logical_not(oeko_valid))
+
+    ax.scatter(nutrient_conc_valid[konv_valid], crop_yield_valid[konv_valid], label='on-farm konv.', marker='o', color='gray')
+    ax.scatter(nutrient_conc_valid[oeko_valid], crop_yield_valid[oeko_valid], label='on-farm öko', marker='*', color='gray')
+    ax.scatter(nutrient_conc_valid[versuch_valid], crop_yield_valid[versuch_valid], label='Versuchsfläche', marker='^', color='gray')
     ax.scatter(nutrient_conc_outliers, crop_yield_outliers, label="Ausreißer", marker='x', facecolor=None, s=100)
 
     x_spline = np.linspace(nutrient_conc_inliers.min(), nutrient_conc_inliers.max(), 100)
